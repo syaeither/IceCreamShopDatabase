@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\ice-cream\bin\Debug\ice-cream.exe.config
+C:\Users\Admin\Desktop\ice-cream\bin\Debug\ice-cream.exe
+C:\Users\Admin\Desktop\ice-cream\bin\Debug\ice-cream.pdb
+C:\Users\Admin\Desktop\ice-cream\obj\Debug\ice-cream.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ice-cream\obj\Debug\ice_cream.Form1.resources
+C:\Users\Admin\Desktop\ice-cream\obj\Debug\ice_cream.Properties.Resources.resources
+C:\Users\Admin\Desktop\ice-cream\obj\Debug\ice-cream.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ice-cream\obj\Debug\ice-cream.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ice-cream\obj\Debug\ice-cream.exe
+C:\Users\Admin\Desktop\ice-cream\obj\Debug\ice-cream.pdb
